@@ -10,4 +10,6 @@ It's best to use notebooks 1 and 3.
 
 I also simplified the text levels, see Nieuwe leesniveaus gedefinieerd.docx. 
 
-![For notebook 3 I used this workflow](review_the_review_process.png)
+For Notebook 3 I have used this workflow:
+<img src="review_the_review_process.png" width="400" height="auto" />
+
