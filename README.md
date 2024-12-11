@@ -6,4 +6,8 @@ This repo contains three Notebooks:
 2. Review_reading_level_with_one_llm.ipynb => use this notebook to review the story with one LLM (GPT-4o)
 3. Multiple_reviews_with_o1-preview.ipynb => use this notebook to review the story with a reasoning model.
 
-In general, you should use notebooks 1 and 3. 
+It's best to use notebooks 1 and 3. 
+
+I also simplified the text levels, see Nieuwe leesniveaus gedefinieerd.docx. 
+
+![For notebook 3 I used this workflow](review_the_review_process.png)
