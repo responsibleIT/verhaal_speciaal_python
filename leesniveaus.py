@@ -10,12 +10,14 @@ level_four_old = 'Leesniveau 4: Er zijn geen beperkingen in woorden en zinslengt
 
 
 #variables based on the reading level settings
-level_one = '''Leesniveau 1: 
-Tekst bestaat uit korte woorden die je precies zo schrijft zoals je ze uitspreekt. Voorbeelden hiervan zijn maan, bos, man, roos. 
-Er mogen dus geen woorden voorkomen met bijvoorbeeld sch- en -ng en -nk, -b, -d(t), -ch(t), -ooi, -aai, -oei, -eeuw, -ieuw, -uw. 
-De zinnen zijn zo kort mogelijk. 
-Elke zin begint op een nieuwe regel. 
-Er komen geen in hoofdletters voor, dus alle woorden worden met kleine letters geschreven.'
+level_one = '''leesniveau 1: 
+tekst bestaat uit korte woorden die je precies zo schrijft zoals je ze uitspreekt. voorbeelden hiervan zijn maan, bos, man, roos. 
+er mogen dus geen woorden voorkomen met bijvoorbeeld sch- en -ng en -nk, -b, -d(t), -ch(t), -ooi, -aai, -oei, -eeuw, -ieuw, -uw. 
+de zinnen zijn zo kort mogelijk. 
+elke zin begint op een nieuwe regel. 
+er komen geen in hoofdletters voor, dus alle woorden worden met kleine letters geschreven. 
+dit geldt ook voor de titel en de namen van de personen
+een voorbeeld hoe je een naam schrijft: eddy, jan en marieke.
 '''
 
 level_two = '''Leesniveau 2: 
